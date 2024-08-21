@@ -1,0 +1,101 @@
+MarketTrendID,ProductGroupID,TrendName,TrendDescription,TrendStartDate,TrendEndDate,ImpactOnSales,ForecastAccuracy,Region,DemographicTarget,CompetitorTrend
+1,31,sense Boom,Smile those sea writer.,2023-12-25,2021-06-09,10.984065876600672,70.9813409558236,New Caledonia,popular,True
+2,30,television Boom,Sort character for think they worry property.,2023-06-29,2020-03-16,18.330359057556198,71.98144561886461,Kyrgyz Republic,our,False
+3,44,get Boom,Garden day citizen despite great production wife of.,2021-12-21,2024-03-28,15.667805898826074,85.23235964645525,Taiwan,benefit,False
+4,40,movement Boom,Civil perform adult deep.,2022-04-19,2021-10-19,10.199421932198248,93.50680886677034,Colombia,might,False
+5,36,property Boom,Sure tend actually after.,2023-11-02,2024-08-02,6.671484062615585,92.95199412146115,Switzerland,should,False
+6,50,policy Boom,Area stuff and voice woman admit city experience.,2021-11-06,2020-02-10,6.491078610666974,67.25472281991242,Botswana,back,False
+7,21,my Boom,Head whole that claim start natural staff.,2020-02-05,2020-08-21,10.116265040839167,79.61706565826768,Norway,would,False
+8,19,day Boom,Thought live those each key who.,2024-01-27,2020-06-25,3.3156080089215862,83.6817786023891,Seychelles,relate,False
+9,26,today Boom,Final her make situation statement north ahead.,2024-07-09,2022-12-02,16.549171742480684,93.41131021870115,Liberia,wall,True
+10,19,about Boom,Concern share late film.,2022-02-09,2022-10-15,1.7992632498217849,93.43598011877347,Georgia,structure,True
+11,23,ok Boom,College truth herself learn.,2021-10-20,2023-03-22,18.55618300590773,82.95902176928176,Grenada,physical,False
+12,14,check Boom,Beat item speech operation campaign series.,2020-02-20,2021-05-20,4.839292136811333,78.85022732980285,Guyana,many,False
+13,9,item Boom,Technology tonight build human pattern.,2021-02-11,2020-02-06,3.0753050498505203,85.93118418409725,Comoros,smile,True
+14,16,stand Boom,Paper store agent player nearly.,2022-10-09,2021-02-17,1.9645431691918165,91.6814466833059,Martinique,certainly,True
+15,41,structure Boom,Within west parent successful food.,2021-07-19,2021-08-13,5.423894636313102,63.50692856658658,Guinea-Bissau,himself,False
+16,46,marriage Boom,Account second government service safe open role paper.,2022-11-12,2020-10-24,9.975674233662733,83.84171953035006,Guadeloupe,main,True
+17,1,behavior Boom,Recognize organization arrive common staff baby.,2020-11-28,2021-06-29,19.325856577282387,94.22687491415806,Samoa,west,True
+18,27,hair Boom,Hope blood to food talk.,2021-02-15,2021-05-08,13.404963156324696,90.82266100305308,French Southern Territories,front,False
+19,31,Democrat Boom,Cost tax report article later.,2024-05-11,2020-08-25,13.360235145611043,86.45688707930589,Northern Mariana Islands,produce,False
+20,21,sense Boom,Clearly board quite.,2020-02-08,2021-04-28,6.422891484737845,62.070690518452174,Macao,article,True
+21,42,instead Boom,Truth receive food political must bill.,2022-12-23,2020-05-02,11.908533710332092,78.73032969127617,Slovenia,management,True
+22,12,message Boom,Recent loss hot measure.,2020-04-28,2020-08-02,8.939814662655102,89.31617111826394,Isle of Man,never,True
+23,26,Mrs Boom,Call bank maybe important difference take.,2023-11-12,2021-06-07,15.97125196764092,66.52090711728711,Iceland,shoulder,False
+24,3,structure Boom,Recent eight water across finally person personal.,2022-06-07,2022-07-05,1.176076201121896,79.87866540325734,Hungary,father,True
+25,22,sometimes Boom,Us soldier carry stock argue hard.,2023-09-26,2023-03-22,6.406671394650879,94.61848145310532,Tonga,energy,False
+26,9,prevent Boom,Though each news beyond should late everything.,2021-06-20,2020-09-02,17.170135032981936,76.38072691522015,Djibouti,his,True
+27,8,sound Boom,Issue identify wear produce role business certainly.,2022-04-15,2021-04-10,7.282997839803926,85.5891731833071,Tanzania,foreign,False
+28,46,peace Boom,Successful can pick culture exactly difference against.,2021-04-19,2024-08-08,4.537782313433286,85.78162634222899,Tanzania,generation,False
+29,37,though Boom,Even think enter century scientist box sense consumer.,2020-05-11,2022-10-17,13.813621658000143,66.7606450702423,Montserrat,red,False
+30,28,least Boom,Reveal respond enter religious.,2022-12-07,2022-04-05,10.790332520236122,63.03582194469246,Egypt,require,True
+31,12,research Boom,People wish down detail.,2023-10-13,2022-02-11,19.652018656370235,76.71089344714625,Trinidad and Tobago,stop,True
+32,1,per Boom,Industry hope certain girl natural.,2020-06-15,2020-08-25,5.954920264243433,68.24324384805368,Syrian Arab Republic,daughter,False
+33,22,want Boom,Upon manage increase scene.,2020-03-11,2023-03-14,6.73697095414068,85.30088849403491,Gibraltar,interesting,True
+34,17,large Boom,Kid create environmental sort arrive just let response.,2024-01-21,2020-05-12,13.419983974333775,84.24690066479586,British Virgin Islands,for,True
+35,43,close Boom,Born kid kind weight.,2020-07-17,2024-06-17,3.246272108275479,70.73822197012669,Italy,report,False
+36,44,laugh Boom,Media large win that majority consider series.,2021-02-16,2023-01-13,10.547888953529403,91.3291429435689,Spain,present,False
+37,45,that Boom,Any health to whom.,2022-12-07,2021-10-07,3.23089917105075,92.06456350477224,Indonesia,bar,False
+38,24,create Boom,Seven course few movie write water.,2023-02-17,2021-03-10,12.67788351473313,67.66950103273703,Western Sahara,explain,True
+39,31,similar Boom,On six effort.,2022-09-25,2024-07-23,3.910525729094405,86.17071930027998,Botswana,prevent,False
+40,27,provide Boom,Necessary perform would bill century.,2024-05-13,2020-12-31,14.33687381025743,91.94789108990865,Latvia,cover,True
+41,49,collection Boom,Party seem prepare occur build why ago.,2023-01-31,2024-05-17,5.701843156862977,86.41588424037029,Mali,item,True
+42,34,ago Boom,Order especially account environment hand chair imagine.,2020-07-17,2023-03-03,9.488211572433183,84.63181438045554,Venezuela,newspaper,True
+43,37,property Boom,Offer nature coach the attorney music.,2023-08-27,2022-10-28,3.131967039208135,89.00709188854488,Bahrain,sport,True
+44,37,top Boom,Want size itself foot dream growth protect.,2023-12-26,2024-02-03,11.19654300695058,65.75880048039643,Burundi,far,False
+45,8,miss Boom,Ten follow myself her.,2023-05-14,2022-03-13,13.925609520842345,85.09212881632274,San Marino,heavy,False
+46,6,mission Boom,Like receive serious interest.,2020-12-18,2020-03-01,18.078897682556,75.59189422655271,Cambodia,scene,True
+47,30,teach Boom,Big after seem pull defense method artist.,2023-08-08,2020-07-15,3.5069424566008807,74.53986008456309,Germany,picture,True
+48,36,thus Boom,Image success song worry again.,2020-03-06,2022-04-27,9.78518780903955,88.24203733940374,Georgia,into,True
+49,26,join Boom,Seek natural various provide stay sea local.,2020-02-08,2024-06-13,5.834687162284636,60.10554150568811,Gabon,capital,True
+50,38,show Boom,Across no there generation direction.,2022-08-12,2021-05-23,2.3875609923936887,74.82940846725188,Kuwait,computer,True
+51,35,west Boom,Population which reality different director professional director better.,2020-09-29,2020-10-26,19.888349549061484,92.71039796097313,Lao People's Democratic Republic,teach,True
+52,31,into Boom,News west consider understand prove happy.,2022-09-14,2022-02-19,1.6029625494385016,74.3103427536737,Namibia,similar,True
+53,50,eat Boom,Write television kind opportunity.,2021-02-11,2023-05-13,13.188975003274772,85.52513247434666,Norway,system,False
+54,24,what Boom,Fall risk middle resource yet remember.,2021-08-09,2022-07-24,19.8642753730367,73.38678665979802,Czech Republic,continue,False
+55,25,land Boom,Daughter care short another minute.,2020-05-06,2024-02-04,2.524749859957968,93.74505317332401,Gambia,little,True
+56,42,less Boom,Chair up trial money necessary worry.,2020-01-13,2022-11-26,17.345445041415303,64.15216085498464,Faroe Islands,hear,False
+57,34,involve Boom,Scene story six idea strong.,2023-06-15,2023-11-04,3.419594659129563,94.25535319592176,Trinidad and Tobago,much,True
+58,49,feeling Boom,Onto also dinner matter attention lead respond.,2024-04-13,2024-03-23,1.4319712191173652,70.44270460460436,Tajikistan,unit,False
+59,35,store Boom,Whatever this pressure value peace company couple.,2021-05-05,2022-04-10,8.206252892642082,68.03824233757646,Faroe Islands,husband,False
+60,23,specific Boom,Dog loss necessary ok list get.,2023-03-07,2022-02-14,3.9473060908715785,66.59681579328598,Guernsey,early,True
+61,3,happen Boom,Build nice check easy claim people letter.,2023-10-21,2022-09-22,16.380085487244692,74.67342094721133,British Virgin Islands,under,True
+62,16,prove Boom,It certainly ability research wide on will.,2020-02-10,2020-02-03,4.915550815154069,63.531384958237744,Saint Lucia,me,True
+63,29,bill Boom,Thing end detail movie general across dark instead.,2022-08-25,2021-03-15,12.3579130378995,84.61501934027251,Solomon Islands,until,True
+64,16,future Boom,Quality response need help war.,2022-03-07,2024-08-10,15.070280491117371,74.07928727838171,Mauritania,fact,True
+65,35,ground Boom,Although color trip develop fine.,2021-03-07,2023-03-08,5.128114993373515,90.23055849345198,Taiwan,any,True
+66,9,plan Boom,Course open force leader take.,2021-05-24,2024-02-16,10.574021129877757,70.12422079738715,Palestinian Territory,simply,False
+67,37,message Boom,Job national be think simply clear.,2020-02-10,2024-01-15,12.360435811267985,83.53861655029198,Peru,film,False
+68,16,some Boom,Born true machine meet middle.,2022-04-05,2020-07-03,6.7335242677398615,65.0141151957165,Cyprus,pay,True
+69,27,similar Boom,Interest investment shoulder data.,2023-09-16,2020-12-04,6.709518121390972,62.13351729873668,British Indian Ocean Territory (Chagos Archipelago),article,True
+70,41,throw Boom,Wait tonight reveal against natural situation former.,2024-02-17,2020-06-21,13.896252342438778,79.45477330942994,Libyan Arab Jamahiriya,how,True
+71,23,fact Boom,High these stuff sound meeting.,2021-08-27,2021-04-30,18.890141786806325,83.49698836610028,Mongolia,indicate,False
+72,45,Mrs Boom,Score subject throughout.,2023-02-24,2022-10-20,8.910168035007448,65.22261627388073,Lithuania,girl,False
+73,12,tend Boom,Wrong agree rock parent.,2022-03-09,2024-01-15,15.333905847524381,76.5731587144277,Tajikistan,door,True
+74,20,sort Boom,Apply move threat.,2020-01-28,2020-06-20,17.293283532887394,65.05231122078125,Netherlands,enter,False
+75,4,strong Boom,Create new look camera tough.,2022-12-14,2020-02-11,11.685333042151273,93.87251659913193,Pakistan,whom,True
+76,25,teach Boom,End lose stop hold something day.,2023-04-08,2024-06-07,5.61431180570213,67.1167856571019,Cyprus,local,True
+77,29,affect Boom,Tend himself car current politics.,2023-02-06,2024-03-28,17.095534332472624,63.23623987844023,New Zealand,authority,True
+78,4,front Boom,Professor let society.,2022-02-11,2023-07-04,6.100770169244643,83.57851722221025,Liberia,rule,True
+79,5,upon Boom,Sense tell administration.,2022-04-17,2020-03-25,4.575102584722352,86.65937461380236,Norway,thing,True
+80,31,four Boom,Box charge hair home control pressure physical free.,2024-07-21,2024-07-24,4.968892682492756,91.74614896367305,Indonesia,smile,False
+81,1,movie Boom,Town expect join play enjoy want.,2023-02-18,2021-10-07,5.024347668931153,66.6508294170552,Sri Lanka,since,True
+82,48,professor Boom,Scene set stand play.,2024-04-19,2024-04-19,19.99186813333842,76.7622306719828,Falkland Islands (Malvinas),white,True
+83,45,receive Boom,Ever everyone significant.,2020-02-01,2022-08-28,12.483629147496842,67.15796000422628,Tokelau,sea,True
+84,36,indicate Boom,Six nation own myself never bar say.,2022-08-02,2021-07-30,7.110685167720643,69.90707191320628,Finland,common,False
+85,35,nothing Boom,Land property this whole will half last leave.,2021-04-04,2020-03-02,13.32570545990714,70.7947799500425,Guyana,magazine,False
+86,33,here Boom,Politics them agree tonight wide.,2020-09-05,2020-09-14,17.773427094878766,76.31014234163827,Georgia,line,False
+87,49,watch Boom,Federal way agent way court story.,2021-12-03,2023-03-18,16.954892449710012,92.00156746141212,Togo,interview,False
+88,21,plant Boom,Anyone west focus probably.,2021-04-04,2023-05-22,8.864673240993866,79.6883654612524,Singapore,particular,True
+89,48,save Boom,Purpose protect for require feeling again.,2021-08-04,2020-01-30,3.7725315489484226,69.12709384684193,Singapore,end,False
+90,19,think Boom,Trial road degree.,2024-05-11,2020-03-26,3.8958167934987222,71.5452850092251,Togo,page,False
+91,37,lead Boom,Huge pull than memory heart catch.,2021-06-18,2024-04-04,16.833891590452716,77.47555188292628,Heard Island and McDonald Islands,spend,False
+92,17,authority Boom,Land wonder whom often.,2021-08-02,2020-03-29,15.503851887660076,77.10173851868353,Egypt,on,False
+93,30,pull Boom,Series account may series car.,2023-04-13,2022-10-23,4.196439273079279,87.8241430023772,Azerbaijan,thus,True
+94,9,main Boom,Century they assume happy.,2023-05-27,2020-04-26,14.68595708447978,77.09107124389463,Serbia,toward,True
+95,34,police Boom,Somebody necessary defense loss.,2024-04-20,2020-06-23,1.6426513861291205,89.63440841139528,Albania,material,True
+96,49,under Boom,Late help it opportunity home.,2021-08-29,2022-04-10,1.1212926643747991,64.81220356739361,Paraguay,summer,True
+97,5,get Boom,Serious serve series upon might.,2022-03-06,2024-05-01,14.436221710365738,60.319951159173165,Czech Republic,plant,False
+98,24,news Boom,Increase approach why someone full.,2022-10-27,2020-04-06,2.1485522593473587,82.32050071162294,New Zealand,fund,False
+99,43,listen Boom,Look investment service improve.,2022-11-13,2021-08-10,10.269233296058353,60.23143249472556,United Kingdom,require,False
+100,1,image Boom,Hot sport reveal head summer.,2020-04-19,2020-09-24,1.3177968044499684,85.27674525690023,Martinique,serve,False

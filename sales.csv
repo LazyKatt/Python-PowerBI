@@ -1,0 +1,401 @@
+SaleID,CustomerID,ProductDetailID,SaleDate,Quantity,TotalAmount,PaymentMethod,ShippingDate,ShippingAddress,OrderStatus,SalesRepresentative,MarketTrendID
+1,2,36,2024-05-11,4,769.3971456133202,Bank Transfer,2024-07-08,"55895 Melanie Tunnel
+East Daniel, VA 41377",Cancelled,Corey Johnson,44
+2,1,64,2024-05-26,3,586.4275786151908,Debit Card,2024-04-18,"160 Nicole Glen
+Christinaburgh, WV 52012",Delivered,Holly Petersen,34
+3,6,36,2024-06-28,5,2118.4920634799946,PayPal,2024-02-05,"685 Smith Forest Suite 412
+Elizabethbury, MH 12919",Pending,Randall Schultz,67
+4,4,11,2024-03-31,2,2174.2202591073733,Bank Transfer,2024-05-03,"54590 Dawn Knolls
+North Susanview, PW 92617",Shipped,Katherine Watson,89
+5,8,83,2024-02-19,4,1372.1149212803837,Credit Card,2024-03-30,"442 Garrett Path
+Lake Coryburgh, AK 01703",Pending,Sara Ward,38
+6,4,52,2024-01-06,2,953.3077888837607,PayPal,2024-02-08,"62427 Lance Row Suite 619
+West Sonia, ME 69107",Cancelled,Jessica Baker,71
+7,9,45,2024-02-21,4,2990.0628186800295,PayPal,2024-04-23,"0310 Mack Views Apt. 627
+Ryanmouth, MT 81874",Delivered,Jennifer Kelley,90
+8,8,35,2024-06-05,3,791.6408447927774,Credit Card,2024-03-28,"03561 Everett Rest Suite 277
+East Roberthaven, PA 37728",Shipped,Joshua Kim,41
+9,2,96,2024-02-08,5,2855.0888031606323,Debit Card,2024-02-28,"5579 Steven Drive
+Alexisbury, NV 50841",Shipped,Bernard Brown,28
+10,8,36,2024-07-31,5,2930.9907175050175,PayPal,2024-01-16,"75572 Lee Knolls Apt. 283
+West Larrymouth, DE 06912",Pending,Christina Gonzales,25
+11,5,30,2024-03-25,3,579.3525538719398,Credit Card,2024-03-30,"7598 Nelson Inlet
+Stephaniestad, IL 97198",Shipped,Cindy Chavez,36
+12,1,7,2024-07-27,5,911.8031014306938,Debit Card,2024-01-10,"79089 Linda Throughway Suite 227
+Kyleport, DC 64363",Cancelled,Joanne Watson,14
+13,1,74,2024-01-04,3,1434.720987545005,Bank Transfer,2024-02-08,"506 Santos Lakes
+East Kathleenville, NH 63143",Delivered,Tiffany Kirk,24
+14,1,33,2024-01-13,4,386.5570651385274,Credit Card,2024-01-31,"PSC 4258, Box 7253
+APO AA 90890",Cancelled,Derek Jackson,63
+15,2,74,2024-01-09,1,497.59467050532146,PayPal,2024-07-20,"Unit 4451 Box 8010
+DPO AE 82110",Pending,Matthew Brown,32
+16,2,72,2024-06-25,4,1838.6370711667403,Debit Card,2024-05-05,"6169 Duncan Well Suite 195
+West George, VA 94688",Cancelled,Amanda Garrett,58
+17,8,39,2024-06-16,5,2970.592218377054,PayPal,2024-02-08,"9495 Coleman Run
+Loweshire, SD 92789",Pending,Michelle Nelson,79
+18,2,98,2024-05-26,2,1895.2693396994794,PayPal,2024-05-30,"74157 Curry Drive Apt. 044
+Robinsonberg, RI 29895",Pending,Sheila Jackson,21
+19,4,23,2024-04-02,5,271.4413632584454,Credit Card,2024-05-17,"668 Tyler Parks
+Michaelton, WY 17383",Cancelled,Christopher Mcdaniel,58
+20,10,61,2024-04-27,3,146.28757337372664,PayPal,2024-02-29,"004 Nielsen Vista
+Gabrielleview, DC 34023",Delivered,Samantha Smith,90
+21,8,10,2024-06-03,2,2775.537581223519,Debit Card,2024-02-16,"3850 Gonzales Stream
+Courtneyside, CT 48417",Cancelled,Eugene Brown,15
+22,9,29,2024-04-02,2,2729.813763377188,Debit Card,2024-04-24,"04989 Jackson Falls
+North Jamesmouth, WV 69073",Pending,Clarence Roberts,8
+23,3,40,2024-07-22,5,2259.4252801053885,PayPal,2024-01-19,"5548 Matthew Fall
+Lake Paulfurt, VI 15439",Cancelled,Jermaine Duncan,16
+24,8,89,2024-07-06,3,2114.214370678366,PayPal,2024-07-26,"2895 Bruce Circle
+Lopezborough, VI 78213",Cancelled,Jonathan Johns,57
+25,2,77,2024-05-02,1,2673.797523412738,PayPal,2024-04-03,"42517 Samuel Islands
+Joshuachester, DC 61630",Delivered,Richard Woods,4
+26,2,30,2024-06-19,5,1782.012648543861,Credit Card,2024-04-27,"519 Scott Island
+Waltermouth, MP 82761",Delivered,Robert Stanley,74
+27,1,98,2024-06-18,2,1437.977428592319,Bank Transfer,2024-02-14,"Unit 5031 Box 6205
+DPO AE 85687",Delivered,Matthew James,24
+28,10,56,2024-01-29,4,2908.712946393826,Bank Transfer,2024-05-30,"71280 Rodriguez Stream
+Michelleborough, MA 97083",Delivered,Brandi Martin,53
+29,6,42,2024-03-26,1,2580.31262848104,PayPal,2024-03-25,"859 Barnett Inlet Suite 424
+East Gregoryborough, OK 41880",Cancelled,Stephanie Salazar,89
+30,8,37,2024-02-17,4,2450.0198024770193,Credit Card,2024-04-25,"69560 Sharp Corner
+Thomasfort, AS 70747",Cancelled,Victoria Murray,12
+31,6,33,2024-01-06,3,391.9687242213257,Bank Transfer,2024-05-16,"8137 James Dale
+East Katherine, OH 37752",Pending,Edward Martinez,85
+32,9,60,2024-06-09,4,209.90205186134938,PayPal,2024-06-14,"2428 Olivia Glen
+New Anna, ME 45413",Cancelled,Cheryl Silva,81
+33,8,98,2024-07-01,1,650.4968031333079,Debit Card,2024-05-12,"1532 Justin Dam Suite 456
+Calebborough, OH 46539",Delivered,Christopher Ellis,57
+34,8,16,2024-01-01,1,2920.783106673998,Debit Card,2024-05-11,"57289 Brian Track Suite 883
+Jasonborough, PR 41306",Shipped,David Montoya,40
+35,9,2,2024-06-19,5,1253.5725275052123,Debit Card,2024-07-27,"8210 Reyes Drive Suite 246
+Espinozaberg, VA 64106",Pending,Elizabeth Ryan,60
+36,2,83,2024-05-24,2,1520.207738886226,PayPal,2024-02-24,"76259 Smith Highway
+Peterchester, PA 60258",Delivered,Mr. Brandon Gonzalez,54
+37,8,61,2024-01-23,2,1397.5200945603249,Debit Card,2024-03-10,"84280 Christina Lane
+Andersonland, WY 65803",Cancelled,Kenneth Lee,25
+38,10,66,2024-05-29,2,2598.879456564335,PayPal,2024-05-04,"37862 Ashley Trail Suite 801
+South Marktown, NY 17630",Cancelled,Krista Mercado,44
+39,9,35,2024-02-25,1,884.3750006843386,PayPal,2024-07-02,"4277 Vargas Extensions
+Stevenport, WV 45939",Cancelled,Patricia Davis,20
+40,8,69,2024-02-10,4,1068.115627994372,Bank Transfer,2024-04-23,"30516 David Stravenue Apt. 433
+Kochland, MO 87220",Cancelled,Brandon Waller,42
+41,4,90,2024-02-04,2,1736.8030438554583,Debit Card,2024-06-26,"90808 Ashley View Apt. 534
+West Benjamintown, MT 36718",Cancelled,John Morrison,6
+42,6,96,2024-04-23,4,2130.4222490237576,Bank Transfer,2024-01-24,"766 Michael Skyway
+Lindseyside, WY 35984",Cancelled,Tommy Walker,85
+43,3,64,2024-01-21,1,422.42649593769664,PayPal,2024-02-05,"5231 Jennifer Fort
+Matthewmouth, IA 11400",Pending,Sabrina Ruiz,57
+44,2,68,2024-03-17,4,95.27541385001888,Debit Card,2024-07-21,"07804 Johnson Glens
+East Maria, WV 78221",Cancelled,Amanda Powers,84
+45,3,10,2024-01-16,4,2355.4996092554234,PayPal,2024-06-14,"85747 Lopez Vista Apt. 832
+Nicolestad, AS 04190",Delivered,Kimberly Johnson,80
+46,7,84,2024-01-29,1,2562.70761243454,Bank Transfer,2024-06-23,"USCGC Romero
+FPO AP 15362",Delivered,Sarah Hart,81
+47,8,70,2024-07-28,1,1871.5054117280333,Debit Card,2024-04-02,"7725 Williams Park
+New Nancyside, MD 96068",Delivered,Crystal Gonzalez,30
+48,2,56,2024-06-05,1,2293.0905943330827,Credit Card,2024-01-13,"09746 Vanessa Walks
+West Stacy, OH 66229",Cancelled,Sierra Cook,22
+49,5,4,2024-03-05,1,1006.9052670048416,Credit Card,2024-07-26,"6527 Kelly Forest Apt. 769
+Port Robertside, IL 07035",Delivered,Kelsey Blevins,46
+50,6,56,2024-07-09,2,770.3824249427067,Bank Transfer,2024-07-09,"630 Austin Via
+Mcguireview, AL 18655",Shipped,Edwin Beck,22
+51,3,11,2024-04-22,5,2618.976816002322,Debit Card,2024-01-26,"31299 Erica Cove Apt. 985
+Josephburgh, AS 70505",Cancelled,Jeremiah Herrera,75
+52,3,30,2024-06-09,4,1931.8186614605272,Bank Transfer,2024-08-06,"1901 Larson Points
+Andersonhaven, MO 32323",Delivered,Natalie Matthews,86
+53,1,60,2024-05-01,3,2048.952112812284,Debit Card,2024-06-11,"807 Rebecca Ports
+Taylorside, VT 74971",Pending,Jonathan Smith,57
+54,6,76,2024-05-13,3,1934.8691719620358,Bank Transfer,2024-05-13,"02236 Chan Harbors
+Danielsberg, CA 15999",Delivered,Karen Baker,59
+55,5,26,2024-08-05,4,2567.3396030475483,Credit Card,2024-06-23,"7341 Allen Springs Apt. 115
+Adamshire, NC 27660",Shipped,Matthew Fisher,49
+56,10,46,2024-04-08,5,922.8235511365646,PayPal,2024-03-20,"5338 Blake Roads Suite 937
+Spencerchester, CT 36323",Pending,Kevin Gilbert,85
+57,7,36,2024-02-08,1,1719.490600019312,Credit Card,2024-06-22,"694 Cole Village Suite 546
+Derrickmouth, FM 12567",Cancelled,Paul Brown,37
+58,4,78,2024-07-17,3,696.0633898379111,Debit Card,2024-02-13,"3007 Fry Fields
+East Amy, UT 72120",Delivered,Ashley Guzman,87
+59,3,81,2024-05-24,1,2715.0409270152554,Credit Card,2024-08-06,"203 Reed Extensions Suite 435
+Lake Angela, HI 86692",Delivered,Kimberly Jones,57
+60,1,75,2024-07-05,3,2210.461315420753,Credit Card,2024-06-12,"460 Austin Stravenue
+West Kristina, AZ 28374",Delivered,Jason Frost,42
+61,7,23,2024-07-13,2,439.8714033530115,PayPal,2024-05-28,"43940 Nicole Prairie Suite 624
+West Eric, IL 95408",Delivered,Jonathan Briggs,22
+62,5,62,2024-06-21,3,2252.350084615283,PayPal,2024-07-20,"80402 Holly Views Suite 627
+West Christopher, FM 57797",Pending,Daniel Morgan,60
+63,2,19,2024-06-19,2,2587.4147608515245,Bank Transfer,2024-04-04,"40210 Kelly Rest Apt. 897
+East Christopherfort, PW 19228",Delivered,Michael Patel,12
+64,7,2,2024-01-12,3,1632.8883093937243,Bank Transfer,2024-04-29,"7212 Edwards Cliffs Suite 754
+Perezmouth, NM 97315",Delivered,Amanda Clark,87
+65,5,75,2024-05-30,4,2476.131038618984,PayPal,2024-04-01,"94551 Lindsey Well
+West Stephanie, CA 96249",Pending,Mark Cuevas,87
+66,4,61,2024-03-20,1,1877.663257781362,PayPal,2024-02-24,"73653 Vance Wells Suite 755
+Hernandezland, KS 30883",Shipped,Charles Garza,83
+67,2,82,2024-01-08,4,2732.6935333622814,PayPal,2024-05-19,"60288 Meyer Spur
+Port Danny, CT 20122",Cancelled,Jacob Ferguson,15
+68,3,6,2024-02-16,1,947.8755238502154,Bank Transfer,2024-01-15,"259 Jackson Stravenue Apt. 297
+East Meredith, MT 18337",Pending,Michelle Pena,13
+69,4,69,2024-03-19,2,1196.5052018929205,PayPal,2024-07-24,"8099 Lewis Camp Apt. 985
+North Anthonyport, WA 89549",Cancelled,Sarah Griffin,76
+70,3,54,2024-06-04,1,2509.3945957241485,Bank Transfer,2024-07-16,"PSC 9884, Box 2647
+APO AE 18730",Delivered,John Molina,5
+71,6,28,2024-02-04,4,1361.8527863482961,Debit Card,2024-01-02,"073 Jonathon Drive Apt. 410
+North Mirandafurt, VI 02044",Delivered,Melissa Bridges,13
+72,6,70,2024-02-05,3,228.62276304149583,PayPal,2024-01-21,"PSC 5303, Box 8837
+APO AE 38905",Shipped,Melissa Beck,16
+73,8,12,2024-05-21,2,1943.028178337992,Credit Card,2024-04-13,"9717 Martinez Lakes Suite 958
+Nathanmouth, FL 85572",Pending,Dana Johnson,43
+74,4,17,2024-03-18,5,655.3564466714854,Debit Card,2024-05-22,"517 Jasmine Street Apt. 438
+Lake Michaelfort, IN 97200",Shipped,Denise Perry,30
+75,6,100,2024-05-20,2,2376.499075118948,Credit Card,2024-07-06,"082 Richard Unions Suite 539
+Clarkfort, CA 31939",Delivered,Martha Bell,19
+76,3,70,2024-08-04,3,2405.6157794949895,Credit Card,2024-04-02,"7495 Lauren Avenue
+New Samanthatown, KY 94874",Pending,Jason Pineda,17
+77,1,46,2024-05-02,2,1787.1161200488048,Credit Card,2024-04-11,"6003 Newman Haven Suite 604
+Torrestown, CO 29831",Shipped,John Payne,34
+78,1,17,2024-07-13,4,1601.952303463708,Credit Card,2024-03-27,"6391 Gardner Falls Apt. 873
+Rayland, CO 68492",Cancelled,Jacob Sims,58
+79,6,66,2024-01-09,5,371.70932951134427,Debit Card,2024-02-24,"64350 Adriana Rest
+Kevinshire, NE 52863",Pending,Aaron Pratt,94
+80,9,39,2024-04-01,4,1947.8550184061917,Credit Card,2024-02-13,"3942 Wong Squares
+North Crystalborough, FL 34873",Pending,Melissa Sanchez,62
+81,7,55,2024-02-03,1,1496.2931197254645,Bank Transfer,2024-03-28,"3389 Lacey Mission
+North Patrick, AK 90418",Pending,Michael Lee,11
+82,6,78,2024-05-14,2,243.76258829433604,PayPal,2024-02-27,"61633 Kayla Lights Suite 775
+Michaelstad, ND 02753",Delivered,Tyler Abbott,49
+83,10,68,2024-05-21,3,1388.4604818476414,Bank Transfer,2024-01-18,"494 Wilson Loop
+East Michaelfurt, NH 26026",Pending,Ryan James,90
+84,2,84,2024-06-05,5,2176.4777541399176,Debit Card,2024-02-04,"3853 Elliott Lock Apt. 920
+New Karenbury, CT 97717",Cancelled,Michael Golden,58
+85,4,53,2024-04-20,3,2490.886713101132,Bank Transfer,2024-01-13,"07853 Charles Cape
+West Stephaniefort, MD 16449",Cancelled,Rebecca Garrison,94
+86,2,41,2024-03-28,4,971.94453486851,PayPal,2024-01-28,"45021 Shelly Ways Suite 189
+Marshallport, ID 32413",Delivered,Jesse Lee,20
+87,8,9,2024-08-09,1,2503.7270710008206,Credit Card,2024-02-18,"318 Shaffer Terrace
+Joshuastad, MS 45404",Cancelled,Dylan Gomez,13
+88,6,17,2024-02-28,5,226.94388501399735,PayPal,2024-06-16,"89575 Christopher Freeway
+Friedmanmouth, AK 15196",Pending,Stacey Herring,53
+89,6,86,2024-03-08,4,2610.8718391637417,Credit Card,2024-06-17,"04478 Lisa Trail
+Scottstad, TN 31832",Delivered,Elizabeth Williams,77
+90,5,46,2024-04-29,1,1754.8596292500717,Debit Card,2024-05-16,"2941 Stephanie Common Apt. 353
+Scottbury, RI 18136",Shipped,Chelsea Brown,85
+91,8,29,2024-04-21,1,1082.836282952514,PayPal,2024-05-03,"53174 Tucker Row
+Lindseyborough, AL 80167",Pending,Mr. Daniel Molina,98
+92,5,74,2024-02-29,2,2431.303044899416,Credit Card,2024-01-28,"505 Esparza Tunnel Apt. 839
+South Michelle, AS 05027",Delivered,Stephanie Davis,4
+93,3,35,2024-01-28,3,2768.5356870478595,PayPal,2024-02-15,"7523 Michelle Landing Suite 831
+Colemanville, KS 93510",Pending,Autumn Carrillo,24
+94,3,73,2024-08-12,4,255.27699268259252,Credit Card,2024-06-01,"8683 Kent Cliffs Apt. 207
+East Marcborough, WA 48081",Pending,Sarah Butler,96
+95,9,28,2024-07-25,4,1288.5058566052844,PayPal,2024-02-09,"0452 Alexa Motorway Suite 886
+Mcdowellburgh, AK 40804",Shipped,Michelle Fletcher,48
+96,5,93,2024-03-25,3,2341.665078901886,Credit Card,2024-04-05,"97980 Pedro Isle Apt. 246
+East Danielland, FM 32935",Pending,Patricia Schmidt,20
+97,3,97,2024-03-28,5,196.79935267722362,Credit Card,2024-07-24,"73297 Davis Canyon Apt. 090
+Gonzalestown, MA 82038",Delivered,Geoffrey Hawkins,57
+98,7,63,2024-07-21,5,1354.0303507584483,PayPal,2024-01-11,"99606 Alan Harbors
+New Brianmouth, RI 17160",Shipped,Adrian Sullivan,97
+99,9,15,2024-03-11,3,1318.2452185237764,PayPal,2024-03-15,"12561 Brent Mountains
+Shannonport, PR 12179",Cancelled,Andrea Cameron,68
+100,5,6,2024-02-16,2,1216.0270184585054,Credit Card,2024-06-07,"51314 Michael Locks Apt. 457
+South Aliciashire, VA 49631",Pending,Cathy Wallace,27
+101,5,28,2024-02-28,2,2304.274642495681,PayPal,2024-03-13,"58282 Danielle Inlet
+East Rebecca, OH 34857",Delivered,Natalie Bullock,16
+102,1,64,2024-06-13,4,568.2996655337348,Bank Transfer,2024-05-20,"90413 Melissa Meadows Apt. 783
+South Robinfort, PW 43889",Shipped,Mark Lowery,65
+103,9,86,2024-02-05,3,262.6227149468656,Credit Card,2024-07-20,"96264 Medina Forge Apt. 856
+Joshuaton, PW 39053",Cancelled,Christopher Cameron,3
+104,8,10,2024-03-06,3,1748.4895241736517,Bank Transfer,2024-04-17,"97521 Patterson Skyway
+Port Cindyville, AK 14302",Cancelled,Connie Scott,38
+105,2,52,2024-02-08,1,2900.2890885477223,Debit Card,2024-06-27,"287 Kyle Valley
+Thomaston, CA 37155",Cancelled,Phillip Wallace,89
+106,6,12,2024-05-04,4,2541.228861453356,Debit Card,2024-02-12,"Unit 2678 Box 1072
+DPO AE 53779",Cancelled,Sarah Singh,76
+107,7,68,2024-08-06,1,1217.5117557350322,PayPal,2024-06-03,"20699 Rhonda Station
+New Jennifer, MD 74311",Delivered,Jimmy Blackwell,29
+108,6,100,2024-07-21,2,275.3191635454124,Credit Card,2024-04-22,"43653 James Rapids Suite 666
+New Kayla, NM 87911",Shipped,Kevin Wilson,100
+109,6,45,2024-04-29,2,746.9931043928367,Debit Card,2024-07-03,"Unit 6658 Box 5447
+DPO AA 10968",Delivered,Lisa Richardson,26
+110,3,78,2024-02-03,2,2292.6351218633317,Credit Card,2024-03-19,"629 Cooper Heights Suite 860
+Ericbury, MP 46443",Shipped,Cindy Mitchell,99
+111,8,60,2024-02-25,5,2291.637591342858,Bank Transfer,2024-01-22,"15358 Kristen Glen Suite 190
+Loweryshire, CA 30170",Delivered,Brianna Koch,81
+112,6,20,2024-07-09,4,251.44446256248048,Bank Transfer,2024-06-15,"56153 Curtis Ports
+Kevinton, MI 44986",Delivered,Patrick Cisneros,36
+113,10,8,2024-05-06,3,1546.6438116048455,PayPal,2024-04-18,"Unit 6608 Box 9807
+DPO AP 72872",Cancelled,Brian Singleton,58
+114,1,8,2024-04-25,3,2503.505063406208,Credit Card,2024-03-09,"46164 Collins Keys Apt. 729
+Charlesview, TN 79429",Pending,Jeff Bishop,79
+115,10,65,2024-02-26,4,1414.9993938354532,Credit Card,2024-01-13,"USNV Hill
+FPO AA 51218",Cancelled,Robyn Lane,74
+116,4,42,2024-04-08,5,1453.105632432055,Debit Card,2024-03-24,"38752 Brian Spur Apt. 326
+North Robertberg, AR 49290",Pending,Jose Small,58
+117,2,44,2024-07-21,1,1538.4195544278243,Debit Card,2024-03-31,"31883 Hamilton Motorway Suite 749
+Amyton, UT 00947",Pending,Jill Mcdowell,32
+118,8,57,2024-06-09,5,1592.1067040333594,Debit Card,2024-03-21,"9065 Jones Valley
+Hayesland, IA 03425",Delivered,Edward Myers,48
+119,5,50,2024-06-19,4,2334.6711262925196,Credit Card,2024-04-15,"238 Forbes Port Apt. 189
+East Robertberg, WA 96533",Delivered,Lisa Johnston,9
+120,6,13,2024-01-03,5,2051.219067278239,PayPal,2024-04-03,"875 Lee Walks
+Williamsside, AZ 33496",Delivered,Patrick Hill,93
+121,10,20,2024-07-14,3,290.4308629712576,Debit Card,2024-02-11,"7900 Franco Turnpike Apt. 464
+Port Matthew, FM 73433",Delivered,Steven Martinez,40
+122,7,17,2024-06-25,5,2141.060342394609,Credit Card,2024-04-27,"9605 Johnson Causeway
+Spencerborough, AS 45203",Delivered,Aaron Hernandez,72
+123,7,83,2024-06-12,3,2448.895112253663,Credit Card,2024-07-27,"523 Miller Stream Apt. 568
+New Katieport, MT 29419",Cancelled,Preston Howard,66
+124,6,3,2024-04-21,3,961.1549066884486,Debit Card,2024-04-11,"7706 Stephanie Fords Apt. 884
+Gutierrezshire, VT 82701",Delivered,Chris Evans,99
+125,8,25,2024-07-04,2,2999.931032253934,Debit Card,2024-03-06,"48602 Karen Mountain Suite 146
+East Andrew, MD 77776",Pending,James Galvan,38
+126,2,65,2024-02-28,5,2513.60348857194,Credit Card,2024-02-15,"864 Mathew Passage
+Lake Chadmouth, ND 92366",Delivered,Sarah Riggs,99
+127,10,17,2024-06-17,5,1161.3236189264478,Debit Card,2024-05-03,"PSC 4693, Box 8260
+APO AA 01206",Shipped,Mr. Michael Estrada MD,89
+128,10,22,2024-03-06,4,178.8926624658173,PayPal,2024-01-16,"728 Smith Spurs Suite 527
+Jamesview, GU 56986",Shipped,Ryan Gates,57
+129,10,37,2024-04-05,4,740.3086857895022,Debit Card,2024-04-07,"15544 Tina Crescent
+Littletown, FL 32991",Delivered,Keith Hernandez,61
+130,4,48,2024-03-03,5,2954.097390918153,Bank Transfer,2024-01-14,"2166 Cindy Locks Suite 483
+Shaunton, GU 52967",Delivered,William Vazquez,100
+131,7,65,2024-07-28,5,1285.0494388527502,Debit Card,2024-06-21,"USS Mcbride
+FPO AP 90863",Shipped,Patricia Chavez,78
+132,3,33,2024-01-04,1,1941.4781568031192,PayPal,2024-07-30,"47277 Julie Rapids
+Port Andrew, RI 49878",Pending,Stephanie Anderson,92
+133,9,16,2024-05-23,3,297.4316198467808,Debit Card,2024-03-12,"8375 Alexis Points Suite 545
+New Nancy, AS 30124",Delivered,Jeffrey Newton,58
+134,9,19,2024-03-08,4,320.5550304943255,Debit Card,2024-03-25,"0262 Charles Summit Suite 374
+New Whitneyshire, UT 95395",Cancelled,Traci Pugh,45
+135,1,54,2024-01-09,1,1219.539198137231,PayPal,2024-03-29,"Unit 4145 Box 9324
+DPO AA 54040",Shipped,Lori Hernandez MD,50
+136,2,48,2024-06-25,2,133.15325930804266,Credit Card,2024-03-28,"0828 Jeffrey Light Suite 317
+Baldwinberg, MH 92363",Delivered,Matthew Torres,19
+137,3,5,2024-05-06,3,2756.318706257616,Bank Transfer,2024-06-01,"21904 Gutierrez Prairie Apt. 939
+Loganchester, NC 46631",Shipped,Ashley May,98
+138,8,58,2024-02-26,5,65.4910350015729,Credit Card,2024-02-19,"8082 Hicks Corners Suite 596
+Kimberlystad, PW 39103",Pending,Phillip Johnston,33
+139,4,20,2024-06-06,5,2823.6665505568876,Bank Transfer,2024-05-12,"92232 Savannah Court
+Garciamouth, CA 60579",Pending,Stacy Wright,100
+140,5,31,2024-04-19,3,409.4526182179217,Debit Card,2024-04-12,"288 Lisa Forge
+West Robert, PA 65492",Cancelled,Duane Peck,82
+141,10,59,2024-03-09,1,377.0307911055442,Bank Transfer,2024-03-05,"09829 Ross Estates
+Bishopton, GA 19368",Pending,Carrie Keller,81
+142,9,74,2024-02-05,2,2169.7057669874403,PayPal,2024-03-29,"7878 Henderson Glen
+Austinside, CA 82545",Cancelled,Ronnie Hill,1
+143,10,46,2024-02-16,2,1733.457962266165,Debit Card,2024-06-16,"11799 Jose Forest
+North Keith, VT 51211",Pending,Justin Singleton,68
+144,6,9,2024-05-06,5,1655.0417817876987,Credit Card,2024-02-21,"48183 Stephanie Turnpike Apt. 872
+West Chloeport, AK 24407",Cancelled,Kyle Morrow,61
+145,1,82,2024-08-08,4,2944.066296527103,PayPal,2024-05-17,"459 Phillips Drives
+East Michael, NE 80550",Pending,Aaron Norman,46
+146,2,45,2024-08-13,2,2212.176013279393,Credit Card,2024-08-03,"55909 Erin Divide
+Port Rick, NM 19012",Delivered,Brenda Mccoy,18
+147,1,46,2024-01-13,5,1048.7144116301174,Debit Card,2024-05-28,"45493 Hess Drive
+Phillipstad, NJ 02387",Cancelled,Timothy Harris,90
+148,8,81,2024-05-31,2,2443.9181614504387,Credit Card,2024-05-03,"608 Laura Fields Apt. 582
+Vaughnstad, MO 59855",Cancelled,Bryan Cook,5
+149,5,26,2024-05-23,1,2383.7721790256796,Credit Card,2024-05-02,"9270 Benjamin Keys Apt. 438
+Maryton, UT 99264",Delivered,Rachael Wagner,40
+150,9,51,2024-04-23,5,1446.5293146466881,Credit Card,2024-08-01,"284 Meagan Mills Suite 002
+Lake Michelle, OK 16373",Shipped,Amy Harrison,37
+151,6,100,2024-08-10,1,2604.10491738027,PayPal,2024-04-05,"USNV Waters
+FPO AE 65140",Delivered,Steven Wong,16
+152,6,56,2024-03-19,4,2242.7577312828826,Bank Transfer,2024-04-07,"351 Pena Summit Suite 119
+Karenbury, CO 12503",Delivered,Christopher Woodward,24
+153,8,89,2024-02-26,4,1133.6734345310617,PayPal,2024-06-26,"79159 Joseph Flat Apt. 268
+Port Amy, WV 78188",Pending,Lindsey Jones,94
+154,7,11,2024-02-03,4,1827.2372315491705,Debit Card,2024-08-12,"945 Jones Brook
+Angelaburgh, TX 06524",Delivered,Samantha Romero,42
+155,2,11,2024-07-13,3,1999.7117033015031,PayPal,2024-04-10,"034 Kaylee Island
+Johnland, WY 44595",Cancelled,Michael George,78
+156,7,22,2024-06-08,4,1087.0636021273767,Credit Card,2024-02-23,"70512 Potter Shoals
+Weberburgh, MI 35822",Delivered,Jennifer Cooper,79
+157,7,36,2024-07-19,1,271.3714367150699,Bank Transfer,2024-05-30,"023 Stephanie View Suite 373
+West Cynthiafurt, ND 64599",Delivered,Matthew Shepherd,66
+158,3,4,2024-05-07,2,2553.574464413077,Bank Transfer,2024-02-10,"USCGC Jones
+FPO AA 76546",Pending,Kelli Barton,17
+159,2,31,2024-02-09,3,1118.344218503091,Credit Card,2024-04-25,"593 Mitchell Hollow
+Petermouth, ME 68026",Shipped,Michael Brown,87
+160,8,48,2024-06-27,3,1359.6209030680297,Credit Card,2024-02-28,"71241 Williams Haven
+Davisview, KY 56371",Shipped,Thomas Henry,68
+161,6,51,2024-02-08,3,1966.2041732827931,Debit Card,2024-03-26,"0362 Cristina Stravenue Suite 953
+Coleview, MA 06715",Pending,Jesus Richardson,4
+162,3,64,2024-07-13,5,1191.6127711158272,Credit Card,2024-01-18,"0590 Smith Tunnel
+South Alanside, VI 71272",Delivered,Crystal Sanchez,100
+163,5,91,2024-03-01,4,682.9827549999732,PayPal,2024-01-18,"Unit 0882 Box 1971
+DPO AA 58926",Cancelled,Katherine Smith,26
+164,2,18,2024-02-19,1,1383.5259214739222,Bank Transfer,2024-04-17,"USS Robertson
+FPO AP 09032",Pending,Brandi Woods,88
+165,6,86,2024-06-14,3,2143.144436117785,PayPal,2024-07-03,"140 Jennifer Estate Apt. 898
+Johnsonport, GU 65669",Delivered,James Murray,21
+166,3,47,2024-08-10,5,711.5127649755718,Debit Card,2024-04-22,"684 Daisy Cape
+West Jenniferside, ID 02740",Shipped,Heather Montoya,31
+167,8,4,2024-07-20,3,1684.3632399158055,PayPal,2024-05-29,"13850 Joseph Gardens
+Lake Cherylstad, WI 26099",Cancelled,Curtis Jones,71
+168,3,79,2024-05-31,1,243.95691053872991,Bank Transfer,2024-05-21,"77907 Drake Dale
+South Christopher, NJ 88554",Cancelled,Zachary Curry,68
+169,7,99,2024-02-25,4,2478.8512285497522,Credit Card,2024-04-15,"USNV Thomas
+FPO AE 30124",Shipped,Sarah Golden,41
+170,2,58,2024-04-10,4,2056.321522416264,PayPal,2024-03-08,"5666 Collins Roads Apt. 692
+Port Davidville, MH 49755",Shipped,Thomas Gill,100
+171,9,82,2024-05-03,5,586.7912528288052,Debit Card,2024-06-06,"7353 Adam Springs
+Port Seth, ID 19105",Cancelled,Bradley Lang,65
+172,1,16,2024-04-18,5,501.3956270900918,Debit Card,2024-01-28,"4147 Bentley Haven Apt. 565
+West Richardside, NV 77197",Shipped,Samuel Jackson,42
+173,4,45,2024-06-23,5,2690.031454622317,Credit Card,2024-02-08,"8736 Keith Falls Apt. 561
+Lake Leah, TN 25455",Delivered,Michael Williams,26
+174,9,36,2024-02-10,2,1893.815966273342,Credit Card,2024-05-30,"724 Smith Pines
+New Jessicatown, AK 91364",Shipped,Sheila Walker,76
+175,10,20,2024-01-26,2,1993.2619764820752,PayPal,2024-02-14,"41093 Thompson Cliff Suite 287
+East Maria, KS 73835",Pending,Phillip Cook,4
+176,2,6,2024-05-09,5,830.7349281075108,Debit Card,2024-01-04,"082 Andrew Ville Suite 852
+North Ashley, AK 36323",Cancelled,Michelle Scott,80
+177,1,64,2024-06-23,5,904.5313875647371,PayPal,2024-03-25,"7307 Harper Key
+Jasonton, MO 30053",Cancelled,Douglas Miller,32
+178,7,39,2024-01-14,4,265.27042524077007,Credit Card,2024-02-08,"PSC 9488, Box 5881
+APO AP 49018",Shipped,Tracie Alexander,57
+179,7,62,2024-02-06,4,651.8678900120261,Debit Card,2024-03-22,"864 Patel Passage Apt. 007
+Angelabury, MT 44844",Delivered,Dr. Christy Meyer,92
+180,6,94,2024-04-16,3,2927.353677348897,Debit Card,2024-08-02,"9298 Trevor Stream
+Priceport, WY 25874",Delivered,Tracy Kennedy,66
+181,9,14,2024-05-23,3,763.1266897625779,Credit Card,2024-04-06,"USNS Gonzalez
+FPO AA 20023",Delivered,Justin Erickson,58
+182,4,19,2024-03-21,1,199.2856108108563,Bank Transfer,2024-05-23,"3161 Carroll Crest Apt. 302
+Michaelberg, FL 92978",Cancelled,Becky Hobbs,32
+183,3,42,2024-01-24,5,2177.32886502526,Debit Card,2024-01-14,"1608 Mariah Ramp
+Houstontown, WA 76804",Shipped,Bonnie Koch,64
+184,9,60,2024-04-13,4,2643.2732076212346,Bank Transfer,2024-05-29,"111 Allen Circle Suite 695
+Dixonstad, GA 78913",Pending,Kathy Ball,12
+185,7,65,2024-04-15,4,2901.7255601298025,Debit Card,2024-02-29,"6461 Brown Mission Suite 862
+New Jamesside, KS 71286",Delivered,Kathryn Gonzalez,7
+186,1,37,2024-07-13,4,1812.6803744800495,Bank Transfer,2024-06-16,"Unit 8847 Box 5108
+DPO AA 91912",Delivered,Charlene Rosario,69
+187,1,14,2024-05-12,4,445.1080847773282,PayPal,2024-06-24,"9047 Wallace Harbors
+West Michael, SC 09979",Delivered,Charles Brooks,98
+188,7,47,2024-03-09,1,1231.715781993532,Debit Card,2024-03-25,"52673 Jennifer Crossroad Apt. 086
+West Todd, UT 93702",Delivered,Victoria Stevens,71
+189,5,10,2024-05-25,4,1537.5538109134538,PayPal,2024-03-23,"6456 Courtney Overpass Suite 692
+Vasquezburgh, MA 63877",Pending,Robert Rocha,17
+190,2,51,2024-07-22,3,2394.94682372379,PayPal,2024-07-09,"9652 Cheryl Square Apt. 929
+East Sarah, NH 32335",Delivered,Jeffrey Alexander,97
+191,3,26,2024-02-23,5,1551.9114228642873,Credit Card,2024-07-17,"0887 Chapman Circle
+Gibsonland, NM 50610",Pending,Ryan Morgan,5
+192,3,92,2024-03-30,3,2421.6992728229256,Bank Transfer,2024-01-03,"6480 Rebecca Orchard
+North Anthony, GA 54180",Shipped,Dr. Judith Le,78
+193,9,18,2024-04-17,3,2797.5377698134703,PayPal,2024-03-11,"547 Dodson Oval Suite 498
+New Scotthaven, RI 94975",Shipped,Beth Ramirez,51
+194,10,95,2024-02-04,3,1801.4877341114109,Bank Transfer,2024-02-22,"00086 Edwards Mountain Apt. 643
+Adamborough, AZ 34985",Delivered,Meagan Prince,61
+195,1,48,2024-01-02,3,2037.7288577953989,Bank Transfer,2024-01-05,"80903 Myers Spring
+Myersside, UT 96759",Delivered,Anthony Matthews,93
+196,1,77,2024-05-27,4,833.3147891078779,Debit Card,2024-07-09,"9710 Jack Street Suite 393
+Port Brendan, WI 02497",Pending,Glenn Marshall,75
+197,8,22,2024-05-20,5,1905.6244613788226,Bank Transfer,2024-03-05,"48091 Sarah Prairie Suite 211
+Tamarafurt, RI 95976",Shipped,Cynthia Peters,88
+198,4,5,2024-03-23,5,2847.205253813689,Credit Card,2024-01-13,"866 Peggy Trail Suite 096
+East Franciscoside, IL 84873",Shipped,Steven Cox,3
+199,8,41,2024-02-28,4,496.722211452069,Debit Card,2024-05-17,"USNV Meyer
+FPO AP 07655",Cancelled,Guy Johnson,65
+200,10,61,2024-08-05,1,2132.0369348477075,Debit Card,2024-02-14,"4573 Jones Port Apt. 212
+Jennifershire, DC 53826",Delivered,Charles Baker,85

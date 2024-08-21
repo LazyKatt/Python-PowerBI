@@ -1,0 +1,11 @@
+CustomerID,CustomerName,ContactName,Email,PhoneNumber,AddressLine1,AddressLine2,City,State,PostalCode,Country,RegistrationDate,WebsiteAccessCategoryID
+1,Adam Smith,John Kim,jameswright@example.net,425-671-5786,846 Ingram Mountains,Suite 341,East Anthonyburgh,Wisconsin,75208,Gambia,2024-04-03,41
+2,Jessica Hamilton,Sandra Juarez,imueller@example.org,+1-978-960-1423x61247,358 Garcia Park Apt. 229,Apt. 028,Loriton,Connecticut,71392,Tanzania,2021-08-03,8
+3,Kathleen Gilmore,George Hunter,keithdavid@example.com,(628)820-5040,910 Michele Skyway,Suite 373,Meganshire,Alaska,55908,Nigeria,2020-04-03,2
+4,Margaret Craig,Michael Valdez,lauren00@example.org,4323246891,12348 Daniel Estates,Suite 210,New Leviville,Hawaii,57562,Maldives,2020-10-02,48
+5,James Gonzalez,Alexandra Burch,carpenterdominic@example.org,(758)329-3955x2104,5285 Thomas Squares Suite 479,Suite 661,Hardyton,North Dakota,85869,Fiji,2020-04-22,18
+6,Margaret Gomez,Carl Howard,castillomonica@example.com,001-982-719-8140x97987,33308 Moss Estates Suite 990,Suite 731,Christopherburgh,Virginia,07887,Belgium,2021-08-12,16
+7,Linda Walker,Phillip Romero,patrickkelley@example.net,001-707-457-6204,53355 Alex Stream Suite 147,Suite 798,East Jamesburgh,Rhode Island,15139,Myanmar,2023-11-28,15
+8,Eric Duncan,Laurie Preston,kellyjohnson@example.com,+1-642-311-8856x41840,03627 Karen Street Apt. 809,Apt. 660,Richardsonview,Montana,94850,Guernsey,2024-08-03,9
+9,Levi Fernandez,Monica Watson,erik61@example.org,001-865-345-4042x569,00570 Connor Shores Apt. 217,Suite 628,West Donnamouth,Missouri,01522,Antigua and Barbuda,2020-08-18,48
+10,Samantha Roman,Kirsten Bryan MD,robertdixon@example.com,001-629-815-9828,7942 Gregory Extension,Suite 592,South Markmouth,Massachusetts,87741,Taiwan,2021-07-14,7
